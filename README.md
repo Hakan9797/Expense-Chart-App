@@ -1,1 +1,1 @@
-Expense Table Chart Project 
+Expense Table Chart App. Link for the App:  
